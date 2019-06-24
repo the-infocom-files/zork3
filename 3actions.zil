@@ -49,7 +49,7 @@
 
 "old ACTIONS.ZIL"
 
-<GLOBAL YUKS
+;<GLOBAL YUKS
 	<LTABLE
 	 "A valiant attempt."
 	 "You can't be serious."
