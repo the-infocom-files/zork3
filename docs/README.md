@@ -12,7 +12,7 @@ Further information on Zork III:
 * [The Infocom Gallery](https://gallery.guetech.org/zork3/zork3.html)
 * [IFWiki](http://www.ifwiki.org/index.php/Zork_III)
 
-The following source material is available for importation. Release 119 was selected from the Zarf Sources.
+The following source material is available for importation. Release 25 was selected from the Zarf Sources.
 
 ## Historical Releases
 
