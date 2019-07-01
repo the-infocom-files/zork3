@@ -18,19 +18,19 @@ The following source material is available for importation. Release 25 was selec
 
 These contain the available source material.
 
-| Release | Serial | Story File                  | Zarf Sources        | Jason Scott Sources    |
-| -------:|:------:|:---------------------------:|:-------------------:| ---------------------- |
-|      15 | 840518 |  [zork3-mac-r15-s840518.z3] | [zork3-mac-r15.zip] |                        |
-|      17 | 840727 |      [zork3-r17-s840727.z3] |     [zork3-r17.zip] | [zork3-revision-17]    |
-|      25 | 860811 |      [zork3-r25-s860811.z3] |     [zork3-r25.zip] | [zork3-final-revision] |
+| Release | Serial | Story File            | Zarf Sources  | Jason Scott Sources |
+| -------:|:------:|:---------------------:|:-------------:|:-------------------:|
+|      15 | 840518 |  [mac-r15-s840518-z3] | [mac-r15-zip] |                     |
+|      17 | 840727 |      [r17-s840727-z3] |     [r17-zip] |       [revision-17] |
+|      25 | 860811 |      [r25-s860811-z3] |     [r25-zip] |    [final-revision] |
 
-[zork3-mac-r15-s840518.z3]: https://eblong.com/infocom/gamefiles/zork3-mac-r15-s840518.z3
-[zork3-mac-r15.zip]: https://eblong.com/infocom/sources/zork3-mac-r15.zip
+[mac-r15-s840518-z3]: https://eblong.com/infocom/gamefiles/zork3-mac-r15-s840518.z3
+[mac-r15-zip]: https://eblong.com/infocom/sources/zork3-mac-r15.zip
 
-[zork3-r17-s840727.z3]: https://eblong.com/infocom/gamefiles/zork3-r17-s840727.z3
-[zork3-r17.zip]: https://eblong.com/infocom/sources/zork3-r17.zip
-[zork3-revision-17]: https://github.com/historicalsource/zork3/tree/1dfe76cfc7dab6379646dbd6d93af96fc17ed53e
+[r17-s840727-z3]: https://eblong.com/infocom/gamefiles/zork3-r17-s840727.z3
+[r17-zip]: https://eblong.com/infocom/sources/zork3-r17.zip
+[revision-17]: https://github.com/historicalsource/zork3/tree/1dfe76cfc7dab6379646dbd6d93af96fc17ed53e
 
-[zork3-r25-s860811.z3]: https://eblong.com/infocom/gamefiles/zork3-r25-s860811.z3
-[zork3-r25.zip]: https://eblong.com/infocom/sources/zork3-r25.zip
-[zork3-final-revision]: https://github.com/historicalsource/zork3/tree/34a2126fc82826e1261ade7d20dd1cf225e6a6a7
+[r25-s860811-z3]: https://eblong.com/infocom/gamefiles/zork3-r25-s860811.z3
+[r25-zip]: https://eblong.com/infocom/sources/zork3-r25.zip
+[final-revision]: https://github.com/historicalsource/zork3/tree/34a2126fc82826e1261ade7d20dd1cf225e6a6a7
