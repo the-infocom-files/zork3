@@ -892,14 +892,14 @@ would be a bit one-sided." CR>)
 			      <SETG MR1-FLAG <>>
 			      <TELL
 "The mirror breaks, revealing a wooden panel behind it. The glistening
-fragments of mirror quietly sparkle into nonexistance." CR>)
+fragments of mirror quietly sparkle into nonexistence." CR>)
 			     (T <TELL "The mirror has already been broken."
 				      CR>)>)
 		      (,MR2-FLAG
 		       <SETG MR2-FLAG <>>
 		       <TELL
 "The mirror breaks, revealing a wooden panel behind it. The glistening
-fragments of mirror quietly sparkle into nonexistance." CR>)
+fragments of mirror quietly sparkle into nonexistence." CR>)
 		      (T <TELL "The mirror has already been broken." CR>)>)
 	       (<OR <AND <==? .MIRROR 1> <NOT ,MR1-FLAG>> <NOT ,MR2-FLAG>>
 	        <TELL
