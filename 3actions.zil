@@ -3041,7 +3041,7 @@ Great Underground Empire. A door to the south is "
 of the Empire. However, following the unexplained disappearance of a
 priceless ring during the final stages of construction, Lord Flathead
 decided to place the remaining jewels in a safer location.
-Interestingly, he placed his most prized possesion, an incredibly gaudy
+Interestingly, he placed his most prized possession, an incredibly gaudy
 crown, in a locked safe in a volcano specifically hollowed out for that
 purpose." CR>
 		       <RTRUE>)>
