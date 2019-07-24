@@ -5083,7 +5083,7 @@ a rocky hole. The damp moss and lichen would certainly make that a one-way
 trip." CR>
 		<COND (<NOT ,AQ-FLAG>
 		       <TELL
-"The southern part of the aqueduct system is inaccessable due to the
+"The southern part of the aqueduct system is inaccessible due to the
 collapse of one of the water-bearing arches." CR>)>)>>
 
 <GLOBAL AQ-FLAG T>
