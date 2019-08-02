@@ -892,14 +892,14 @@ would be a bit one-sided." CR>)
 			      <SETG MR1-FLAG <>>
 			      <TELL
 "The mirror breaks, revealing a wooden panel behind it. The glistening
-fragments of mirror quietly sparkle into nonexistance." CR>)
+fragments of mirror quietly sparkle into nonexistence." CR>)
 			     (T <TELL "The mirror has already been broken."
 				      CR>)>)
 		      (,MR2-FLAG
 		       <SETG MR2-FLAG <>>
 		       <TELL
 "The mirror breaks, revealing a wooden panel behind it. The glistening
-fragments of mirror quietly sparkle into nonexistance." CR>)
+fragments of mirror quietly sparkle into nonexistence." CR>)
 		      (T <TELL "The mirror has already been broken." CR>)>)
 	       (<OR <AND <==? .MIRROR 1> <NOT ,MR1-FLAG>> <NOT ,MR2-FLAG>>
 	        <TELL
@@ -3041,7 +3041,7 @@ Great Underground Empire. A door to the south is "
 of the Empire. However, following the unexplained disappearance of a
 priceless ring during the final stages of construction, Lord Flathead
 decided to place the remaining jewels in a safer location.
-Interestingly, he placed his most prized possesion, an incredibly gaudy
+Interestingly, he placed his most prized possession, an incredibly gaudy
 crown, in a locked safe in a volcano specifically hollowed out for that
 purpose." CR>
 		       <RTRUE>)>
@@ -5083,7 +5083,7 @@ a rocky hole. The damp moss and lichen would certainly make that a one-way
 trip." CR>
 		<COND (<NOT ,AQ-FLAG>
 		       <TELL
-"The southern part of the aqueduct system is inaccessable due to the
+"The southern part of the aqueduct system is inaccessible due to the
 collapse of one of the water-bearing arches." CR>)>)>>
 
 <GLOBAL AQ-FLAG T>
