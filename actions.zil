@@ -1598,7 +1598,7 @@ N ,PNUMB "." CR>
 		<TELL
 "To the south, across a narrow corridor, is a prison cell." CR>)>>
 
-<ROUTINE DIAL ("AUX" N)
+<ROUTINE DIAL ()
 	 <COND (<VERB? EXAMINE>
 		<TELL "The dial points to " N ,PNUMB "." CR>)
 	       (<VERB? TURN>
@@ -1940,7 +1940,7 @@ A legend beneath the picture says \"The Dungeon and Treasury of Zork.\"" CR>)
 <ROUTINE TORCH-PSEUDO ()
 	 <TELL "The torches are out of reach." CR>>
 
-<ROUTINE WATER-FCN ("AUX" AV PI?)
+<ROUTINE WATER-FCN ("AUX" PI?)
 	 #DECL ((AV) <OR OBJECT FALSE> (PI?) <OR ATOM FALSE>)
 	 <COND (<VERB? SGIVE> <RFALSE>)
 	       (<VERB? THROUGH>
@@ -2044,7 +2044,7 @@ moment, you are awakening, as if from a deep slumber." CR>)>
 	 <KILL-INTERRUPTS>
 	 <RFATAL>>
 
-<ROUTINE RANDOMIZE-OBJECTS ("AUX" (R <>) F N L)
+<ROUTINE RANDOMIZE-OBJECTS ("AUX" (R <>) F N)
 	 <SET N <FIRST? ,WINNER>>
 	 <REPEAT ()
 		 <SET F .N>
@@ -4638,7 +4638,7 @@ and algae." CR>)
 	 <GOTO ,VIEW-ROOM <>>
 	 <RTRUE>>
 
-<ROUTINE VIEWING-TABLE-F ("AUX" L)
+<ROUTINE VIEWING-TABLE-F ()
 	 <COND (<VERB? RUB>
 		<SETG SCORE <+ ,SCORE ,VIEW-POINT>>
 		<SETG VIEW-POINT 0>
