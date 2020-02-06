@@ -43,7 +43,7 @@ Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for e
 
 _Note: releases 12 and 16 are not listed on the [Zork III Specifications](http://www.infocom-if.org/games/zork3/zork3specs.html) page. Also release 15/840518 is listed as 13/840518._
 
-## Final Development Releases
+## Final Development Release
 
 Zarf's Obsessively Complete Infocom Catalog holds a copy of the game file for the final development release. It also holds the source files for that release. These are the same as the final revision sources in the matching Historical Source repository.
 
