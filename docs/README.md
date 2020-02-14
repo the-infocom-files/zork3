@@ -20,17 +20,15 @@ The following sources provide further information on Zork III:
 
 ## Version History
 
-Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every existing version of Zork III listed in the Infocom Fact Sheet. It also holds the source files for versions 15/840518, 17/840727 and 25/860811.
-
-| Release | Serial | Story File                 | Zarf Sources        | Historical Sources |
-| -------:|:------:|:--------------------------:|:-------------------:|:------------------:|
-|      10 | 820818 |     [zork3-r10-s820818.z3] |                   - |                  - |
-|      12 | 821025 |     [zork3-r12-s821025.z3] |                   - |                  - |
-|      15 | 830331 |     [zork3-r15-s830331.z3] |                   - |                  - |
-|      16 | 830410 |     [zork3-r16-s830410.z3] |                   - |                  - |
-|      15 | 840518 | [zork3-mac-r15-s840518.z3] | [zork3-mac-r15.zip] |                  - |
-|      17 | 840727 |     [zork3-r17-s840727.z3] |     [zork3-r17.zip] |      [revision 17] |
-|      25 | 860811 |     [zork3-r25-s860811.z3] |     [zork3-r25.zip] |   [final revision] |
+| Release | Serial | Type | Story File                 | Zarf Sources        | Historical Sources |
+| -------:|:------:|:----:|:--------------------------:|:-------------------:|:------------------:|
+|      10 | 820818 |  PUB |     [zork3-r10-s820818.z3] |                   - |                  - |
+|      12 | 821025 |  PUB |     [zork3-r12-s821025.z3] |                   - |                  - |
+|      15 | 830331 |  PUB |     [zork3-r15-s830331.z3] |                   - |                  - |
+|      16 | 830410 |  PUB |     [zork3-r16-s830410.z3] |                   - |                  - |
+|      15 | 840518 |  PUB | [zork3-mac-r15-s840518.z3] | [zork3-mac-r15.zip] |                  - |
+|      17 | 840727 |  PUB |     [zork3-r17-s840727.z3] |     [zork3-r17.zip] |      [revision 17] |
+|      25 | 860811 |  FIN |     [zork3-r25-s860811.z3] |     [zork3-r25.zip] |   [final revision] |
 
 [zork3-r10-s820818.z3]: https://eblong.com/infocom/gamefiles/zork3-r10-s820818.z3
 [zork3-r12-s821025.z3]: https://eblong.com/infocom/gamefiles/zork3-r12-s821025.z3
