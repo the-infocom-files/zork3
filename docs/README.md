@@ -20,7 +20,7 @@ The following sources provide further information on Zork III:
 
 ## Version History
 
-| Release | Serial | Type | Story File                 | Zarf Sources        | Historical Sources |
+| Release | Serial | Type | Story File                 | Obsessive Sources   | Historical Sources |
 | -------:|:------:|:----:|:--------------------------:|:-------------------:|:------------------:|
 |      10 | 820818 |  PUB |     [zork3-r10-s820818.z3] |                   - |                  - |
 |      12 | 821025 |  PUB |     [zork3-r12-s821025.z3] |                   - |                  - |
