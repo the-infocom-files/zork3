@@ -259,6 +259,7 @@ The book itself is very old and the pages dry and brittle.")
 	(DESC "compass rose")
 	(SYNONYM ROSE)
 	(ADJECTIVE COMPASS)
+	(FLAGS TURNBIT)
 	(ACTION ROSE-F)>
 
 <OBJECT MASTER
@@ -719,7 +720,7 @@ the Frobozz Magic Boat Co., etc.|
 	(IN IN-MIRROR)
 	(DESC "T-bar")
 	(SYNONYM T-BAR BAR)
-	(FLAGS NDESCBIT)
+	(FLAGS NDESCBIT TURNBIT)
 	(ACTION T-BAR-F)>
 
 <OBJECT BLACK-PANEL
