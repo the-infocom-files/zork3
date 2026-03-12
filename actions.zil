@@ -1612,7 +1612,7 @@ N ,PNUMB "." CR>
 			      <TELL
 "The dial now points to " N ,PNUMB "." CR>)>
 		       <RTRUE>)
-		      (<NOT ,PRSI>
+		      (<EQUAL? ,PRSI <> ,HANDS ,ROOMS>
 		       <TELL "You must specify what to set the dial to." CR>)
 		      (T <TELL "The dial face only contains numbers." CR>)>)
 	       (<VERB? SPIN>
@@ -2626,7 +2626,7 @@ of going over the stairs." CR>
 			     (T
 			      <SETG TM-YEAR ,P-NUMBER>
 			      <TELL "The dial is set to " N ,TM-YEAR "." CR>)>)
-		      (<NOT ,PRSI>
+		      (<EQUAL? ,PRSI <> ,HANDS ,ROOMS>
 		       <TELL "You have to say what to turn it to!" CR>)
 		      (T <TELL "You can't do that!" CR>)>)>>
 
